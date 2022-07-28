@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Photo_Selection_Assistant.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="allFormtas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10x15,13x18,15x21,10x15 (2в1),A4 (21x30),A3 (30x42),A2 (42x60),Полароид</Value>
+    </Setting>
+    <Setting Name="size" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1x</Value>
+    </Setting>
+    <Setting Name="subfolders" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="folderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">На печать</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
